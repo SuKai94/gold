@@ -1,7 +1,7 @@
 range()和xrange()的区别
 ===
 
-```
+``python`
 # 版本一
 for i in range(1000):
 	pass
