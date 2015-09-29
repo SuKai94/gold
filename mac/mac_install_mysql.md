@@ -13,12 +13,12 @@ brew install mysql
 
 ---
 
-### 附：安装python-mysqldb模块
+## 附：安装python-mysqldb模块
 
-1. 方法一：使用pip install
+### 1. 方法一：使用pip install
 
 该方法会出现一些环境变量的错误，建议采用方法二
 
-2. 手动安装
+### 2. 手动安装
 
 参考[这里](http://www.chenruixuan.com/archives/413.html)
