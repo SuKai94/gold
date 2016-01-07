@@ -1,19 +1,24 @@
-Install mysql in mac os
+Mac OS Install Mysql
 ===
 
-### 1. 方法一：使用homebrew安装
+### One. Use Homebrew
 
-brew install mysql
+![Uninstall all those broken versions of MySQL and re-install it with Brew on Mac Mavericks](https://coderwall.com/p/os6woq/uninstall-all-those-broken-versions-of-mysql-and-re-install-it-with-brew-on-mac-mavericks)
 
-建议不采用这种方案，环境变量什么的不太好配置
+### Two. Use PKG 
 
-### 2. 方法二：手动安装
+![Mac OS安装MySQL（使用二进制PGK包安装）](http://elf8848.iteye.com/blog/1914209)
 
-手动安装mysql和mysql-bench，参考[这里](http://justsee.iteye.com/blog/1753467)
+![手动安装mysql和mysql-bench](http://justsee.iteye.com/blog/1753467)
+
+Error:
+
+- ![ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (38)](http://stackoverflow.com/questions/4788381/getting-cant-connect-through-socket-tmp-mysql-when-installing-mysql-on-m)
+- ![ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)](http://stackoverflow.com/questions/15450091/for-a-newbie-error-2002-hy000-cant-connect-to-local-mysql-server-through-so)
 
 ---
 
-## 附：安装python-mysqldb模块
+### 安装Python-MysqlDB模块
 
 ### 1. 方法一：使用pip install
 
