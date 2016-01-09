@@ -3,9 +3,10 @@ Use Mac Efficiently
 
 #### Terminal And Shell
 
-- [Iterm2 快捷键介绍](http://dayuan.im/blog/iterm2-keymaps.html/)
+- [iTerm2快捷键介绍](http://dayuan.im/blog/iterm2-keymaps.html/)
 - [命令行的艺术](http://blog.jobbole.com/90364/)
 - [应该知道的Linux技巧](http://coolshell.cn/articles/8883.html)
+- [iTerm&&Vim 配色](http://www.gocalf.com/blog/make-mac-better-for-development.html)
 
 ---
 
