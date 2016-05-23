@@ -6,6 +6,10 @@ from sklearn.metrics import confusion_matrix,classification_report
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.cross_validation import train_test_split
 
+'''
+http://blog.csdn.net/gamer_gyt/article/details/51255448
+'''
+
 def tanh(x):
     return np.tanh(x)
 
